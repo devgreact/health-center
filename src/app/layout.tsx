@@ -21,6 +21,11 @@ export default function RootLayout({
           rel="canonical"
           href="https://health-center-devgreact.vercel.app"
         ></link>
+
+        <meta
+          name="google-site-verification"
+          content="Q2bHOLs6jaFYy4NK_gCCdUCjf270wQ8zYE_nerDd7lw"
+        />
       </head>
       <body>{children}</body>
     </html>
